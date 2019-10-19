@@ -1,0 +1,17 @@
+body{
+    margin-left:10px;
+    padding:0;
+    background-color: cornsilk;
+}
+.container{
+    border:1px solid black;
+    display:flex;
+}
+.design{
+    display:flex;
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+
+}
